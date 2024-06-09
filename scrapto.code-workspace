@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "scrapto",
+			"path": "../../../Users/ACER/Desktop/anrg/anurag/scrapto"
+		},
+		{
+			"name": "anurag",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "anurag"
+	}
+}

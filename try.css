@@ -1,0 +1,181 @@
+element.style {
+}
+html.ion-ce body {
+    display: block;
+}
+html:not(.hydrated) body {
+    display: none;
+}
+body, html {
+    height: 100%;
+}
+body {
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    -webkit-user-drag: none;
+    -ms-content-zooming: none;
+    word-wrap: break-word;
+    -webkit-text-size-adjust: none;
+    -moz-text-size-adjust: none;
+    text-size-adjust: none;
+    margin: 0;
+    max-height: 100%;
+    max-width: 100%;
+    overflow: hidden;
+    overscroll-behavior-y: none;
+    padding: 0;
+    position: fixed;
+    text-rendering: optimizeLegibility;
+    touch-action: manipulation;
+    -webkit-transform: translateZ(0);
+    transform: translateZ(0);
+    width: 100%;
+}
+body {
+    background: var(--ion-background-color);
+}
+body {
+    margin: 0;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    text-align: left;
+    background-color: #fff;
+}
+* {
+    font-family: Montserrat,sans-serif;
+}
+* {
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+    -webkit-tap-highlight-color: transparent;
+    -webkit-touch-callout: none;
+    box-sizing: border-box;
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+user agent stylesheet
+body {
+    display: block;
+    margin: 8px;
+}
+html.md {
+    --ion-default-font: "Roboto","Helvetica Neue",sans-serif;
+}
+:root {
+    --ion-color-primary: #3ab34a;
+    --ion-color-primary-rgb: 56,128,255;
+    --ion-color-primary-contrast: #fff;
+    --ion-color-primary-contrast-rgb: 255,255,255;
+    --ion-color-primary-shade: #3ab34a;
+    --ion-color-primary-tint: #3ab34a;
+    --ion-color-secondary: #3dc2ff;
+    --ion-color-secondary-rgb: 61,194,255;
+    --ion-color-secondary-contrast: #fff;
+    --ion-color-secondary-contrast-rgb: 255,255,255;
+    --ion-color-secondary-shade: #36abe0;
+    --ion-color-secondary-tint: #50c8ff;
+    --ion-color-tertiary: #5260ff;
+    --ion-color-tertiary-rgb: 82,96,255;
+    --ion-color-tertiary-contrast: #fff;
+    --ion-color-tertiary-contrast-rgb: 255,255,255;
+    --ion-color-tertiary-shade: #5260ff;
+    --ion-color-tertiary-tint: #5260ff;
+    --ion-color-success: #3ab34a;
+    --ion-color-success-rgb: 45,211,111;
+    --ion-color-success-contrast: #fff;
+    --ion-color-success-contrast-rgb: 255,255,255;
+    --ion-color-success-shade: #28ba62;
+    --ion-color-success-tint: #42d77d;
+    --ion-color-warning: #ffc409;
+    --ion-color-warning-rgb: 255,196,9;
+    --ion-color-warning-contrast-rgb: 0,0,0;
+    --ion-color-warning-shade: #e0ac08;
+    --ion-color-warning-tint: #ffca22;
+    --ion-color-danger: #eb445a;
+    --ion-color-danger-rgb: 235,68,90;
+    --ion-color-danger-contrast: #fff;
+    --ion-color-danger-contrast-rgb: 255,255,255;
+    --ion-color-danger-shade: #cf3c4f;
+    --ion-color-danger-tint: #ed576b;
+    --ion-color-medium: #92949c;
+    --ion-color-medium-rgb: 146,148,156;
+    --ion-color-medium-contrast: #fff;
+    --ion-color-medium-contrast-rgb: 255,255,255;
+    --ion-color-medium-shade: #808289;
+    --ion-color-medium-tint: #9d9fa6;
+    --ion-color-light: #f4f5f8;
+    --ion-color-light-rgb: 244,245,248;
+    --ion-color-light-contrast-rgb: 0,0,0;
+    --ion-color-light-shade: #d7d8da;
+    --ion-color-light-tint: #f5f6f9;
+}
+:root {
+    --blue: #007bff;
+    --indigo: #6610f2;
+    --purple: #6f42c1;
+    --pink: #e83e8c;
+    --red: #dc3545;
+    --orange: #fd7e14;
+    --yellow: #ffc107;
+    --green: #28a745;
+    --teal: #20c997;
+    --cyan: #17a2b8;
+    --white: #fff;
+    --gray: #6c757d;
+    --gray-dark: #343a40;
+    --primary: #007bff;
+    --secondary: #6c757d;
+    --success: #28a745;
+    --info: #17a2b8;
+    --warning: #ffc107;
+    --danger: #dc3545;
+    --light: #f8f9fa;
+    --dark: #343a40;
+    --breakpoint-xs: 0;
+    --breakpoint-sm: 576px;
+    --breakpoint-md: 768px;
+    --breakpoint-lg: 992px;
+    --breakpoint-xl: 1200px;
+    --font-family-sans-serif: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+    --font-family-monospace: SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;
+}
+html {
+    font-family: var(--ion-font-family);
+}
+html {
+    -webkit-text-size-adjust: 100%;
+    -moz-text-size-adjust: 100%;
+    text-size-adjust: 100%;
+    width: 100%;
+}
+@supports (padding-top:env(safe-area-inset-top))
+{html {
+    --ion-safe-area-top: env(safe-area-inset-top);
+    --ion-safe-area-bottom: env(safe-area-inset-bottom);
+    --ion-safe-area-left: env(safe-area-inset-left);
+    --ion-safe-area-right: env(safe-area-inset-right);
+}
+@supports (padding-top:20px)
+{html {
+    --ion-safe-area-top: var(--ion-statusbar-padding);
+}
+html {
+    --ion-font-family: var(--ion-default-font);
+}
+html {
+    font-family: sans-serif;
+    line-height: 1.15;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    -ms-overflow-style: ;
+    -webkit-tap-highlight-color: transparent;
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+} 
