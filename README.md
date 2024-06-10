@@ -37,6 +37,7 @@ Address Management: Users can save and manage multiple addresses for pickups.
 Points and Rewards: Users earn points for each successful pickup which can be redeemed for rewards or discounts.
 Leaderboard: Displays top recyclers and donors.
 
+
 ## Web Technologies used:
 1. HTML
 2. CSS
@@ -54,14 +55,11 @@ Visual studio code,GitHub
 7. Every time you push changes to your repository, the GitHub Actions workflow will trigger and deploy your site.
 8. You can monitor the deployment status in the Actions tab of your GitHub repository.
 ## 9. here you can see the code for static website in github repositary.
-<img width="1280" alt="Screenshot 2024-06-09 at 9 14 10 PM" src="https://github.com/Anuraag0/project04/assets/126175943/e0cde980-68ba-4346-8ea5-3762b044d562">
+
+<img width="1280" alt="Screenshot 2024-06-10 at 9 12 02 AM" src="https://github.com/Anuraag0/project04/assets/126175943/3222b6df-293e-4620-9117-4edc286b85ee">
 
 
-
-### . Access Your Deployed App.
+### . Access Your Deployed App.<img width="1280" alt="Screenshot 2024-06-09 at 9 14 10 PM" src="https://github.com/Anuraag0/project04/assets/126175943/e0cde980-68ba-4346-8ea5-3762b044d562">
 Once the deployment is complete, you can access your static web app via the URL provided in the Azure Portal under your Static Web App resource.
-<img width="1280" alt="Screenshot 2024-06-09 at 9 14 10 PM" src="https://github.com/Anuraag0/project04/assets/126175943/e0cde980-68ba-4346-8ea5-3762b044d562">
-
-
 
 
