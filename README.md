@@ -96,8 +96,12 @@ https://scrapto.z13.web.core.windows.net/
    - **Subscription**: Select your Azure subscription.
    - **Resource Group**: Select an existing resource group or create a new one.
    - **Location**: Choose a location close to your users.
+
    - **Pricing tier**: Choose the Free tier for development.
+   - customize the bot accourding to your requirements .
    <img width="1280" alt="Screenshot 2024-06-10 at 9 51 12 AM" src="https://github.com/Anuraag0/project04/assets/126175943/6e827c37-8f87-4bb9-953a-75892d6395ba">
+## make your Questions and answers to them in the customeze section.
+<img width="1280" alt="Screenshot 2024-06-10 at 9 53 37 AM" src="https://github.com/Anuraag0/project04/assets/126175943/ae4a7e32-ade3-409f-9bda-8d8aaf24f3bf">
 
 4. Click "Create" to deploy the bot service.<img width="1280" alt="Screenshot 2024-06-10 at 10 21 16 AM" src="https://github.com/Anuraag0/project04/assets/126175943/fb75cb7d-a348-46cc-92f0-6290ac45ab42">
 
@@ -111,10 +115,11 @@ https://scrapto.z13.web.core.windows.net/
   - Click "Get Embed Codes" and copy the iframe code provided.![sev](https://github.com/Anuraag0/project04/assets/126175943/1c4f4a9c-290a-4149-bb30-7d42a611e59d)
   - Paste the iframe code into your website's HTML file where you want the chatbot to appearence.
 
+<img width="1280" alt="Screenshot 2024-06-10 at 7 50 33 PM" src="https://github.com/Anuraag0/project04/assets/126175943/81123f51-0347-42b7-9026-f712610be50f">
 
 
 ### 9. now your Azure AI chatbot Service is applide to the project successfully. !
-10. 
+10. <img width="1280" alt="Screenshot 2024-06-10 at 2 03 42 PM" src="https://github.com/Anuraag0/project04/assets/126175943/6461f8ff-1d8a-496b-832a-cd98fce76104">
 ### Azure AI ChatBot screenshot in project:
 # * here are some Project DEMO  screenshots of the web application (Wellthier).
 
