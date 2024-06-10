@@ -1,7 +1,7 @@
 # ✨Scrapto - The Humble Start-up ✨
 ### this web application is based on scrap and it is developed for accomplishment of future ready talent internship program launched by Microsoft, Future Skills Prime, Zuno by foundit & Github.
 
-* project link 
+* project link - https://anuraag0.github.io/project04/index.html
 * project demo video link -
 
 
@@ -121,12 +121,17 @@ https://scrapto.z13.web.core.windows.net/
 
 ### Azure AI ChatBot screenshot in project:
 10. <img width="1280" alt="Screenshot 2024-06-10 at 2 03 42 PM" src="https://github.com/Anuraag0/project04/assets/126175943/6461f8ff-1d8a-496b-832a-cd98fce76104">
-# * here are some Project DEMO  screenshots of the web application (Scrapto).
+# * here are some P<img width="1280" alt="Screenshot 2024-06-10 at 8 09 08 PM" src="https://github.com/Anuraag0/project04/assets/126175943/9160d868-c297-41e2-9f53-483161093875">
+roject DEMO  screenshots of the web application (Scrapto).
 
+<img width="1280" alt="Screenshot 2024-06-10 at 8 09 15 PM" src="https://github.com/Anuraag0/project04/assets/126175943/de6b4276-5917-48c9-bb48-6bd5f3e3d0df">
 
+<img width="1280" alt="Screenshot 2024-06-10 at 2 03 32 PM" src="https://github.com/Anuraag0/project04/assets/126175943/d154dacd-6814-400b-818a-0d6dd464f235">
 
+<img width="1280" alt="Screenshot 2024-06-10 at 2 05 16 PM" src="https://github.com/Anuraag0/project04/assets/126175943/79ec4a7f-bc3f-4c9d-b954-4ebbb79ef2f8">
+<img width="1280" alt="Screenshot 2024-06-10 at 8 13 28 PM" src="https://github.com/Anuraag0/project04/assets/126175943/8f027131-a180-4f63-9465-060e5a5f8b0d">
 
-
+<img width="1280" alt="Screenshot 2024-06-10 at 8 13 48 PM" src="https://github.com/Anuraag0/project04/assets/126175943/d514093f-fb23-4800-acf2-2b84af1f3bc2">
 
 
 ## designed & developed by :
