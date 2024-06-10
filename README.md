@@ -59,7 +59,26 @@ Visual studio code,GitHub
 <img width="1280" alt="Screenshot 2024-06-10 at 9 12 02 AM" src="https://github.com/Anuraag0/project04/assets/126175943/3222b6df-293e-4620-9117-4edc286b85ee">
 
 
+
 ### . Access Your Deployed App.<img width="1280" alt="Screenshot 2024-06-09 at 9 14 10 PM" src="https://github.com/Anuraag0/project04/assets/126175943/e0cde980-68ba-4346-8ea5-3762b044d562">
 Once the deployment is complete, you can access your static web app via the URL provided in the Azure Portal under your Static Web App resource.
 
+# steps to follow for deployment of storage accounts :
+1. built the whole project code in visual studio code
+2. test it on the live server.
+3. after that install git in system.
+4. uplode project on your github repositry.
+5. after that login to your azure portal and get access to try for free.
+6. then select azure storage accounts, click on create. <img width="1280" alt="Screenshot 2024-06-10 at 7 08 16 PM" 
+src="https://github.com/Anuraag0/project04/assets/126175943/bfc51f9e-adc7-47dc-a039-964f380b8e80">
+7. after creating successfully uplode your project files on to it.
+8. ### all files are uploaded to the Azure storage Accounts.
+<img width="1280" alt="Screenshot 2024-06-10 at 2 31 14 PM" src="https://github.com/Anuraag0/project04/assets/126175943/64e93cb4-33cc-4d81-a80a-dce39a330e73">
+9. after that start the static web application servises on to your website.
+### 10. finally , your website is now stoerd in the Azure Storage Accounts.
+
+<img width="1280" alt="Screenshot 2024-06-10 at 7 12 16 PM" src="https://github.com/Anuraag0/project04/assets/126175943/91399059-ebdb-4d74-aaf2-420e3784f72c">
+* this is the link provided by the Azure Storage Accounts. 
+   
+https://scrapto.z13.web.core.windows.net/
 
