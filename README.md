@@ -115,11 +115,11 @@ https://scrapto.z13.web.core.windows.net/
   - Click "Get Embed Codes" and copy the iframe code provided.![sev](https://github.com/Anuraag0/project04/assets/126175943/1c4f4a9c-290a-4149-bb30-7d42a611e59d)
   - Paste the iframe code into your website's HTML file where you want the chatbot to appearence.
 
-<img width="1280" alt="Screenshot 2024-06-10 at 7 50 33 PM" src="https://github.com/Anuraag0/project04/assets/126175943/81123f51-0347-42b7-9026-f712610be50f">
-
+![sev2](https://github.com/Anuraag0/project04/assets/126175943/b880fde3-7bfd-4539-a8e6-f2ad1e4767e8)
 
 ### 9. now your Azure AI chatbot Service is applide to the project successfully. !
-10. <img width="1280" alt="Screenshot 2024-06-10 at 2 03 42 PM" src="https://github.com/Anuraag0/project04/assets/126175943/6461f8ff-1d8a-496b-832a-cd98fce76104">
+
 ### Azure AI ChatBot screenshot in project:
+10. <img width="1280" alt="Screenshot 2024-06-10 at 2 03 42 PM" src="https://github.com/Anuraag0/project04/assets/126175943/6461f8ff-1d8a-496b-832a-cd98fce76104">
 # * here are some Project DEMO  screenshots of the web application (Wellthier).
 
