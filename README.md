@@ -47,17 +47,18 @@ Visual studio code,GitHub
 
 # steps to follow for deployment of Azure Static web applications:
 1. Create an Azure Static Web App Go to the Azure Portal and log in.
-### 2. Click on Create a resource and search for "Static Web App". 
+### 2. Click on Create a resource and search for "Static Web App".<img width="1280" alt="Screenshot 2024-06-09 at 9 11 11 PM" src="https://github.com/Anuraag0/project04/assets/126175943/ff45e250-6d95-4ce9-a9ed-5bff605ba57d"> 
 3. create.
 4. Click on Create to start the setup process.
-### 5. Fill in the required details.
+### 5. Fill in the required details.<img width="1280" alt="Screenshot 2024-06-09 at 9 13 29 PM" src="https://github.com/Anuraag0/project04/assets/126175943/e7c9bf13-7ef4-488b-bffe-ac9d50db1c64">
 7. Every time you push changes to your repository, the GitHub Actions workflow will trigger and deploy your site.
 8. You can monitor the deployment status in the Actions tab of your GitHub repository.
 ## 9. here you can see the code for static website in github repositary.
 
 
-### 9. Access Your Deployed App.![st5](https://github.com/Shamdixit/finalpro/assets/126175943/7ee10b81-8d49-4dfa-911f-f0b71500deaf)
+### . Access Your Deployed App.
 Once the deployment is complete, you can access your static web app via the URL provided in the Azure Portal under your Static Web App resource.
+<img width="1280" alt="Screenshot 2024-06-09 at 9 14 10 PM" src="https://github.com/Anuraag0/project04/assets/126175943/e0cde980-68ba-4346-8ea5-3762b044d562">
 
 
 
