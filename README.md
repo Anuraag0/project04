@@ -121,5 +121,39 @@ https://scrapto.z13.web.core.windows.net/
 
 ### Azure AI ChatBot screenshot in project:
 10. <img width="1280" alt="Screenshot 2024-06-10 at 2 03 42 PM" src="https://github.com/Anuraag0/project04/assets/126175943/6461f8ff-1d8a-496b-832a-cd98fce76104">
-# * here are some Project DEMO  screenshots of the web application (Wellthier).
+# * here are some Project DEMO  screenshots of the web application (Scrapto).
+
+
+
+
+
+
+
+## designed & developed by :
+we have worked together on the whole Scrapto project together using HTML, CSS , JavaScript.
+ ## * following is the contribution of each member of the project:
+
+1. Anurag Anilkumarji Dayma (group representative)
+* made the main structure of the website using HTML.
+* worked on color combinations in web site.
+* deployed the azure AI chat Bot service.
+* makes the connection between project and Azure AI chat BOt. 
+* deplyode and stored data of web application in the Azure Storage Accounts.
+* worked on readme file creation.
+2. Shamkumar Bhausaheb Dixit
+* worked on the small detailings of the website .
+* worked on the designing of the website using CSS.
+* makes the web site respnsive.
+* deployed the website to the azure static web apps.
+*  Made the youtube demo video.
+* working on applying database.
+
+  
+
+## contact:
+* anuragdayma04@gmail.com
+* shamdixit5@gmail.com
+* +91 9309200244
+* +91 8080327889
+
 
