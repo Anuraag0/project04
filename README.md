@@ -54,6 +54,8 @@ Visual studio code,GitHub
 7. Every time you push changes to your repository, the GitHub Actions workflow will trigger and deploy your site.
 8. You can monitor the deployment status in the Actions tab of your GitHub repository.
 ## 9. here you can see the code for static website in github repositary.
+<img width="1280" alt="Screenshot 2024-06-09 at 9 14 10 PM" src="https://github.com/Anuraag0/project04/assets/126175943/e0cde980-68ba-4346-8ea5-3762b044d562">
+
 
 
 ### . Access Your Deployed App.
