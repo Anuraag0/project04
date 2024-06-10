@@ -11,7 +11,7 @@
 
 
 **Azure AI services used for project**
- - Azure AI health bot
+ - Azure Question Anwering chat bot
    
 ## introduction
 Welcome to the project04 repository. 
@@ -66,6 +66,7 @@ Once the deployment is complete, you can access your static web app via the URL 
 # steps to follow for deployment of storage accounts :
 1. built the whole project code in visual studio code
 2. test it on the live server.
+
 3. after that install git in system.
 4. uplode project on your github repositry.
 5. after that login to your azure portal and get access to try for free.
@@ -81,4 +82,39 @@ src="https://github.com/Anuraag0/project04/assets/126175943/bfc51f9e-adc7-47dc-a
 * this is the link provided by the Azure Storage Accounts. 
    
 https://scrapto.z13.web.core.windows.net/
+
+
+
+# steps to follow for deployment of azure ChatBot bot
+
+## Step 1: Create an Azure Bot Service
+
+1. Log in to the [Azure Portal](https://portal.azure.com/).
+2. Click on "Create a resource" and search for "Bot Services".
+3. Click "Create" and fill in the required details:
+   - **Bot handle**: Choose a unique name for your bot.
+   - **Subscription**: Select your Azure subscription.
+   - **Resource Group**: Select an existing resource group or create a new one.
+   - **Location**: Choose a location close to your users.
+   - **Pricing tier**: Choose the Free tier for development.
+   <img width="1280" alt="Screenshot 2024-06-10 at 9 51 12 AM" src="https://github.com/Anuraag0/project04/assets/126175943/6e827c37-8f87-4bb9-953a-75892d6395ba">
+
+4. Click "Create" to deploy the bot service.<img width="1280" alt="Screenshot 2024-06-10 at 10 21 16 AM" src="https://github.com/Anuraag0/project04/assets/126175943/fb75cb7d-a348-46cc-92f0-6290ac45ab42">
+
+5. Set Up the Bot Locally
+6. Deploy the Bot to Azure
+7. <img width="1280" alt="Screenshot 2024-06-10 at 11 18 06 AM" src="https://github.com/Anuraag0/project04/assets/126175943/6a2cd5f2-3e10-4c0e-b905-6ec789789003">
+
+8. Link the Bot to a Website
+  - Go to the Azure Portal and navigate to your Bot Service.
+  - Click on "Channels" and select "Web Chat".
+  - Click "Get Embed Codes" and copy the iframe code provided.![sev](https://github.com/Anuraag0/project04/assets/126175943/1c4f4a9c-290a-4149-bb30-7d42a611e59d)
+  - Paste the iframe code into your website's HTML file where you want the chatbot to appearence.
+
+
+
+### 9. now your Azure AI chatbot Service is applide to the project successfully. !
+10. 
+### Azure AI ChatBot screenshot in project:
+# * here are some Project DEMO  screenshots of the web application (Wellthier).
 
