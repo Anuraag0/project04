@@ -17,7 +17,7 @@
 Welcome to the project04 repository. 
 #### Scrapto 
 is a web application designed to streamline the recycling of scrap materials and the donation of clothing. Users can easily schedule doorstep pickups for their recyclable items and gently used clothing, ensuring an environmentally friendly and socially responsible way to dispose of unwanted goods.Scrapto offers convenient, hassle-free service, connecting users with local recycling centers and charitable organizations, promoting sustainability and community support. 
-
+    
 
 ## features and functionalities:
 * User Registration and Authentication
@@ -36,6 +36,12 @@ Address Management: Users can save and manage multiple addresses for pickups.
 * Reward System
 Points and Rewards: Users earn points for each successful pickup which can be redeemed for rewards or discounts.
 Leaderboard: Displays top recyclers and donors.
+
+## Project Understanding
+- primary plastic production is near about 280 million tons per year and it takes near about 500 years to decompose .there for it i has very harsh impact on biodiversity and eco-system as well . SO, our web app will acts as an intermediate between the scrap recyclers and the scrap sellers , we provide doorstep pickup service to all the user so that it makes easy for recycling of scrap we make transaction transparency in our web site every user is able to monazite the scrap .
+- our target audience is the metropolitan cities where the scrap seller will easily contact with us and 
+  get the doorstep pickup service of the scrap.
+- Creating a scrap selling application involves several key steps, from idea generation to launch and beyond. By carefully planning, developing, testing, and marketing my app, i can successfully enter the scrap selling market and provide a valuable service to users while also potentially generating revenue through your monetisation strategy. Remember that continuous improvement and adapting to user feedback are essential for long-term success in this space. If you have any more specific questions or need further guidance on any of these steps, feel free to ask .
 
 
 ## Web Technologies used:
