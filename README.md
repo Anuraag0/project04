@@ -2,8 +2,7 @@
 ### this web application is based on scrap and it is developed for accomplishment of future ready talent internship program launched by Microsoft, Future Skills Prime, Zuno by foundit & Github.
 
 * project link - https://anuraag0.github.io/project04/index.html
-* project demo video link - https://anuraag0.github.io/project04/
-
+* project demo video link - ](https://youtu.be/Iz8XBkd-zYc?si=dBLENpor3KpIzMnq)
 
 **Azure core technologies used for project**
 - Azure Static web app
