@@ -142,7 +142,7 @@ https://scrapto.z13.web.core.windows.net/
 
 
 ## designed & developed by :
-we have worked together on the whole Scrapto project using HTML, CSS , JavaScript.
+we have worked together with collaboration  on the whole Scrapto project using HTML, CSS , JavaScript.
  ## * following is the contribution of each member of the project:
 
 1. Anurag Anilkumarji Dayma (group representative)
